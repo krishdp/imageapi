@@ -20,7 +20,7 @@ services:
   # new
   web-db:
     build:
-      context: ./project/db
+      context: ./db
       dockerfile: Dockerfile
     expose:
       - 5432
