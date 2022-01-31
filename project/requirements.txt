@@ -2,6 +2,7 @@ anyio==3.5.0
 aiofiles==0.5.0
 alembic==1.6.5
 aniso8601==7.0.0
+asyncpg==0.25.0
 async-exit-stack==1.0.1
 async-generator==1.10
 autopep8==1.5.7
@@ -27,7 +28,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 Mako==1.1.5
 MarkupSafe==2.0.1
-orjson
+# orjson
 passlib==1.7.4
 promise==2.3
 Pillow==9.0.0
